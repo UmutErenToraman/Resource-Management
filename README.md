@@ -1,1 +1,2 @@
 # Resource-Management
+This project simulates resource management of an operating system. There are four ingredients (resource): cocoa, egg, milk, flour and six cooks (threads): cook1, cook2..., cook6. Every cook has infinite amount of two resources and lack other two. They are waiting for the wholesaler to sell them missing ingredients. If a cook gets what he needs, he starts to bake a cake (means a thread accomplished its mission). 
